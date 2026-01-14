@@ -137,7 +137,7 @@
                         <th>ลำดับ</th>
                         <th>ชื่อ-นมสกุล</th>
                         <th>อีเมล</th>
-                        <th>เบอร์โทร</th>
+                        <th>เบอร์ทร</th>
                     </tr>";
             while($row = $result->fetch_assoc()) {
                 echo "<tr>
